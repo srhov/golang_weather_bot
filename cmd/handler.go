@@ -35,7 +35,7 @@ to quickly create a Cobra application.`,
 			log.Fatal("Error loading .env file")
 		}
 
-		bot, err := tgbotapi.NewBotAPI(os.Getenv("TELEGRAM_TOKEN"))
+		bot, err := tgbotapi.NewBotAPI(os.Getenv("TELE_TOKEN"))
 		if err != nil {
 			log.Panic(err)
 		}
