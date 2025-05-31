@@ -55,6 +55,5 @@ A simple Telegram bot written in Go that provides current weather information ba
 
 ## License
 See [LICENSE](LICENSE).
-https://t.me/golang_weather_7d38a6ca_bot
 ---
 *Made for DEVOPS101 Week 2*
